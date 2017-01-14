@@ -1,0 +1,4007 @@
+{"id": "c8dc876a-099e-4e95-93dc-0eb143c6954f", "status": "closed", "reference": "56911", "number": 11, "scheduled": "2016-09-11T20:05:00+00:00", "attendance": 69012, "utc_offset": -8, "entry_mode": "INGEST", "weather": "Sunny Temp: 61 F, Humidity: 68%, Wind: ESE 2 mph", "clock": "00:00", "quarter": 4, "summary": {
+    "season": {
+        "id": "49037b4f-71c4-4e4d-8963-4f9b83e0b4bc",
+        "year": 2016,
+        "type": "REG",
+        "name": "REG"
+    },
+    "week": {
+        "id": "fca6b835-3977-4979-8a74-4d3f46e3be24",
+        "sequence": 1,
+        "title": "1"
+    },
+    "venue": {
+        "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+        "name": "CenturyLink Field",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "zip": "98134",
+        "address": "800 Occidental Avenue South",
+        "capacity": 67000,
+        "surface": "artificial",
+        "roof_type": "outdoor"
+    },
+    "home": {
+        "name": "Seahawks",
+        "market": "Seattle",
+        "alias": "SEA",
+        "reference": "5003",
+        "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+    },
+    "away": {
+        "name": "Dolphins",
+        "market": "Miami",
+        "alias": "MIA",
+        "reference": "4992",
+        "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+    }
+}, "home": {
+    "name": "Seahawks",
+    "market": "Seattle",
+    "alias": "SEA",
+    "reference": "5003",
+    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+    "players": [
+        {
+            "name": "Garry Gilliam",
+            "jersey": "79",
+            "last_name": "Gilliam",
+            "first_name": "Garry",
+            "abbr_name": "G.Gilliam",
+            "preferred_name": "Garry",
+            "birth_date": "1990-11-26",
+            "weight": 306.0,
+            "height": 77,
+            "status": "started",
+            "id": "a9fa2c9b-56df-470e-8f4f-682cdeb3dd7b",
+            "position": "T",
+            "age": 25,
+            "college": "Penn State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "41739",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030899",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jimmy Graham",
+            "jersey": "88",
+            "last_name": "Graham",
+            "first_name": "Jimmy",
+            "abbr_name": "J.Graham",
+            "preferred_name": "Jimmy",
+            "birth_date": "1986-11-24",
+            "weight": 265.0,
+            "height": 79,
+            "status": "played",
+            "id": "fd85786d-3900-4dc0-9b30-334ee30413ed",
+            "position": "TE",
+            "age": 29,
+            "birth_place": "Goldsboro, NC, USA",
+            "high_school": "Charis Prep (NC)",
+            "college": "Miami",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 3,
+                "number": 95,
+                "team": {
+                    "name": "Saints",
+                    "market": "New Orleans",
+                    "alias": "NO",
+                    "id": "0d855753-ea21-4953-89f9-0e20aff9eb73"
+                }
+            },
+            "references": [
+                {
+                    "id": "35534",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027696",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Kelcie McCray",
+            "jersey": "33",
+            "last_name": "McCray",
+            "first_name": "Kelcie",
+            "abbr_name": "K.McCray",
+            "preferred_name": "Kelcie",
+            "birth_date": "1988-09-20",
+            "weight": 205.0,
+            "height": 73,
+            "status": "played",
+            "id": "22b30e9f-e24b-4fa1-a038-77e8f6d9f2f9",
+            "position": "SS",
+            "age": 27,
+            "birth_place": "Columbus, GA, USA",
+            "high_school": "Hardaway (GA)",
+            "college": "Arkansas State",
+            "college_conf": "Sun Belt Conference",
+            "rookie_year": 2012,
+            "references": [
+                {
+                    "id": "00-0029107",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "39074",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Garrison Smith",
+            "jersey": "98",
+            "last_name": "Smith",
+            "first_name": "Garrison",
+            "abbr_name": "G.Smith",
+            "preferred_name": "Garrison",
+            "birth_date": "1991-10-09",
+            "weight": 300.0,
+            "height": 73,
+            "status": "deactivated",
+            "id": "7d94e607-7908-4e25-ae36-b1f2707c06c4",
+            "position": "DT",
+            "age": 24,
+            "birth_place": "Atlanta, GA, USA",
+            "high_school": "Douglass (GA)",
+            "college": "Georgia",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "00-0030871",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41709",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Steven Terrell",
+            "jersey": "23",
+            "last_name": "Terrell",
+            "first_name": "Steven",
+            "abbr_name": "S.Terrell",
+            "preferred_name": "Steven",
+            "birth_date": "1990-09-21",
+            "weight": 197.0,
+            "height": 70,
+            "status": "played",
+            "id": "f4ce175a-0408-4215-8a64-2cac3679d151",
+            "position": "FS",
+            "age": 25,
+            "birth_place": "Allen, TX, USA",
+            "college": "Texas A&M",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "references": [
+                {
+                    "id": "00-0029958",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40411",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Tharold Simon",
+            "jersey": "27",
+            "last_name": "Simon",
+            "first_name": "Tharold",
+            "abbr_name": "T.Simon",
+            "preferred_name": "Tharold",
+            "birth_date": "1991-03-06",
+            "weight": 202.0,
+            "height": 74,
+            "status": "deactivated",
+            "id": "21a71d59-6198-4c30-9895-3c5967605397",
+            "position": "CB",
+            "age": 25,
+            "birth_place": "Eunice, LA, USA",
+            "high_school": "Eunice (LA)",
+            "college": "Louisiana State",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 5,
+                "number": 138,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0030487",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40086",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Thomas Rawls",
+            "jersey": "34",
+            "last_name": "Rawls",
+            "first_name": "Thomas",
+            "abbr_name": "T.Rawls",
+            "preferred_name": "Thomas",
+            "birth_date": "1993-08-03",
+            "weight": 215.0,
+            "height": 69,
+            "status": "played",
+            "id": "488c3707-26ee-4e1a-8742-494a06f77801",
+            "position": "RB",
+            "age": 23,
+            "birth_place": "Flint, MI, USA",
+            "high_school": "Flint Northern",
+            "college": "Central Michigan",
+            "college_conf": "Mid-American Conference",
+            "rookie_year": 2015,
+            "references": [
+                {
+                    "id": "42928",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031897",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Frank Clark",
+            "jersey": "55",
+            "last_name": "Clark",
+            "first_name": "Frank",
+            "abbr_name": "F.Clark",
+            "preferred_name": "Frank",
+            "birth_date": "1993-06-14",
+            "weight": 272.0,
+            "height": 75,
+            "status": "played",
+            "id": "490c15eb-accc-4441-be7d-c7114e1e42fc",
+            "position": "DE",
+            "age": 23,
+            "birth_place": "Cleveland, OH, USA",
+            "college": "Michigan",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 2,
+                "number": 63,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032210",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "42406",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Kevin Pierre-Louis",
+            "jersey": "58",
+            "last_name": "Pierre-Louis",
+            "first_name": "Kevin",
+            "abbr_name": "K.Pierre-Louis",
+            "preferred_name": "Kevin",
+            "birth_date": "1991-10-07",
+            "weight": 236.0,
+            "height": 72,
+            "status": "played",
+            "id": "14656a50-c687-48e0-a2d9-819709e3ffa3",
+            "position": "LB",
+            "age": 24,
+            "birth_place": "Norwalk,, CAN",
+            "high_school": "King Low Heywood Thomas (CAN)",
+            "college": "Boston College",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 4,
+                "number": 132,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031308",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41361",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Jarran Reed",
+            "jersey": "90",
+            "last_name": "Reed",
+            "first_name": "Jarran",
+            "abbr_name": "J.Reed",
+            "preferred_name": "Jarran",
+            "birth_date": "1992-12-16",
+            "weight": 313.0,
+            "height": 76,
+            "status": "started",
+            "id": "c02b49d3-ddc1-4ffc-9f40-487199882fa5",
+            "position": "DT",
+            "age": 23,
+            "birth_place": "Goldsboro, NC, USA",
+            "high_school": "Goldsboro (NC)",
+            "college": "Alabama",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 2,
+                "number": 49,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "43338",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032387",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jermaine Kearse",
+            "jersey": "15",
+            "last_name": "Kearse",
+            "first_name": "Jermaine",
+            "abbr_name": "J.Kearse",
+            "preferred_name": "Jermaine",
+            "birth_date": "1990-02-06",
+            "weight": 209.0,
+            "height": 73,
+            "status": "started",
+            "id": "7e5b8212-df93-4069-b3f0-be4b5cb47389",
+            "position": "WR",
+            "age": 26,
+            "birth_place": "Lakewood, WA, USA",
+            "high_school": "Lakes (WA)",
+            "college": "Washington",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2012,
+            "references": [
+                {
+                    "id": "00-0029159",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "39141",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "George Fant",
+            "jersey": "74",
+            "last_name": "Fant",
+            "first_name": "George",
+            "abbr_name": "G.Fant",
+            "preferred_name": "George",
+            "birth_date": "1992-07-19",
+            "weight": 270.0,
+            "height": 78,
+            "status": "played",
+            "id": "eb7f7d43-7837-400c-828c-bd5d609bca41",
+            "position": "T",
+            "age": 24,
+            "birth_place": "Bowling Green, KY, USA",
+            "high_school": "Warren Central",
+            "college": "Western Kentucky",
+            "college_conf": "Conference USA",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "43586",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032466",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "C.J. Prosise",
+            "jersey": "22",
+            "last_name": "Prosise",
+            "first_name": "C.J.",
+            "abbr_name": "C.Prosise",
+            "preferred_name": "C.J.",
+            "birth_date": "1994-05-20",
+            "weight": 220.0,
+            "height": 72,
+            "status": "played",
+            "id": "f4992e8f-73f0-43e4-a9ca-c83953fe3f5b",
+            "position": "RB",
+            "age": 22,
+            "birth_place": "Petersburg, VA, USA",
+            "high_school": "Woodberry Forest (VA)",
+            "college": "Notre Dame",
+            "college_conf": "Independent",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 3,
+                "number": 90,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032393",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43379",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Cassius Marsh",
+            "jersey": "91",
+            "last_name": "Marsh",
+            "first_name": "Cassius",
+            "abbr_name": "C.Marsh",
+            "preferred_name": "Cassius",
+            "birth_date": "1992-07-07",
+            "weight": 254.0,
+            "height": 76,
+            "status": "played",
+            "id": "a18446e0-c116-4d12-83d7-6b12c5fb983f",
+            "position": "DE",
+            "age": 24,
+            "birth_place": "Mission Hills, CA, USA",
+            "high_school": "Oaks Christian (CA)",
+            "college": "UCLA",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 4,
+                "number": 108,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "41337",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031175",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Cliff Avril",
+            "jersey": "56",
+            "last_name": "Avril",
+            "first_name": "Cliff",
+            "abbr_name": "C.Avril",
+            "preferred_name": "Cliff",
+            "birth_date": "1986-04-08",
+            "weight": 260.0,
+            "height": 75,
+            "status": "started",
+            "id": "d631b4a7-1ce6-4355-9cce-e61cb175c78c",
+            "position": "DE",
+            "age": 30,
+            "birth_place": "Jacksonville, FL, USA",
+            "high_school": "Clay (FL)",
+            "college": "Purdue",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2008,
+            "draft": {
+                "year": 2008,
+                "round": 3,
+                "number": 92,
+                "team": {
+                    "name": "Lions",
+                    "market": "Detroit",
+                    "alias": "DET",
+                    "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0026232",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "33173",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Joey Hunt",
+            "jersey": "53",
+            "last_name": "Hunt",
+            "first_name": "Joey",
+            "abbr_name": "J.Hunt",
+            "preferred_name": "Joey",
+            "birth_date": "1994-02-22",
+            "weight": 295.0,
+            "height": 75,
+            "status": "dnp",
+            "id": "30e8767e-a208-494d-b684-4f1905e0ac10",
+            "position": "C",
+            "age": 22,
+            "birth_place": "El Campo, TX, USA",
+            "high_school": "El Campo",
+            "college": "Texas Christian",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 6,
+                "number": 215,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032443",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43504",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Brock Coyle",
+            "jersey": "52",
+            "last_name": "Coyle",
+            "first_name": "Brock",
+            "abbr_name": "B.Coyle",
+            "preferred_name": "Brock",
+            "birth_date": "1990-10-12",
+            "weight": 243.0,
+            "height": 73,
+            "status": "played",
+            "id": "b1f8c22c-e516-4fdc-9ecd-d2bd1e9a1f36",
+            "position": "LB",
+            "age": 25,
+            "birth_place": "Bozeman, MT, USA",
+            "high_school": "Bozeman (MT)",
+            "college": "Montana",
+            "college_conf": "Big Sky Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "41608",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030770",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Richard Sherman",
+            "jersey": "25",
+            "last_name": "Sherman",
+            "first_name": "Richard",
+            "abbr_name": "R.Sherman",
+            "preferred_name": "Richard",
+            "birth_date": "1988-03-30",
+            "weight": 195.0,
+            "height": 75,
+            "status": "started",
+            "id": "29ac0dbd-2d1c-40da-88ba-36f0d3856d05",
+            "position": "CB",
+            "age": 28,
+            "birth_place": "Compton, CA, USA",
+            "high_school": "Dominguez (CA)",
+            "college": "Stanford",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2011,
+            "draft": {
+                "year": 2011,
+                "round": 5,
+                "number": 154,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0028092",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "37229",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Russell Wilson",
+            "jersey": "03",
+            "last_name": "Wilson",
+            "first_name": "Russell",
+            "abbr_name": "R.Wilson",
+            "preferred_name": "Russell",
+            "birth_date": "1988-11-29",
+            "weight": 206.0,
+            "height": 71,
+            "status": "started",
+            "id": "409d4cac-ee90-4470-9710-ebe671678339",
+            "position": "QB",
+            "age": 27,
+            "birth_place": "Richmond, VA, USA",
+            "high_school": "Collegiate (VA)",
+            "college": "Wisconsin",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 3,
+                "number": 75,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0029263",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "38605",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Germain Ifedi",
+            "jersey": "76",
+            "last_name": "Ifedi",
+            "first_name": "Germain",
+            "abbr_name": "G.Ifedi",
+            "preferred_name": "Germain",
+            "birth_date": "1994-06-02",
+            "weight": 335.0,
+            "height": 78,
+            "status": "deactivated",
+            "id": "23ce41df-3f29-4f67-9fb5-b9778ac931f8",
+            "position": "G/T",
+            "age": 22,
+            "birth_place": "Houston, TX, USA",
+            "high_school": "Westside",
+            "college": "Texas A&M",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 1,
+                "number": 31,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "43320",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032384",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "J'Marcus Webb",
+            "jersey": "73",
+            "last_name": "Webb",
+            "first_name": "J'Marcus",
+            "abbr_name": "J.Webb",
+            "preferred_name": "J'Marcus",
+            "birth_date": "1988-08-08",
+            "weight": 333.0,
+            "height": 79,
+            "status": "started",
+            "id": "1ed30e79-c25f-4ce1-a17f-94a4bf6d3686",
+            "position": "T",
+            "age": 28,
+            "birth_place": "Fort Worth, TX, USA",
+            "high_school": "North (TX)",
+            "college": "West Texas A&M",
+            "college_conf": "Lone Star Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 7,
+                "number": 218,
+                "team": {
+                    "name": "Bears",
+                    "market": "Chicago",
+                    "alias": "CHI",
+                    "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0027609",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "35657",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Tyler Lockett",
+            "jersey": "16",
+            "last_name": "Lockett",
+            "first_name": "Tyler",
+            "abbr_name": "T.Lockett",
+            "preferred_name": "Tyler",
+            "birth_date": "1992-09-28",
+            "weight": 182.0,
+            "height": 70,
+            "status": "started",
+            "id": "dffa69ad-331e-4f09-ae38-40a5a4406be6",
+            "position": "WR",
+            "age": 23,
+            "birth_place": "Tulsa, OK, USA",
+            "high_school": "Booker T. Washington",
+            "college": "Kansas State",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 3,
+                "number": 69,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "42412",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032211",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Rees Odhiambo",
+            "jersey": "70",
+            "last_name": "Odhiambo",
+            "first_name": "Rees",
+            "abbr_name": "R.Odhiambo",
+            "preferred_name": "Rees",
+            "birth_date": "1992-09-23",
+            "weight": 309.0,
+            "height": 76,
+            "status": "deactivated",
+            "id": "c6c63d67-4913-497f-a17c-55c72cbe5b9b",
+            "position": "G",
+            "age": 23,
+            "birth_place": ",, KEN",
+            "high_school": "Mansfield Legacy",
+            "college": "Boise State",
+            "college_conf": "Mountain West Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 3,
+                "number": 97,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "43386",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032397",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Tanner McEvoy",
+            "jersey": "19",
+            "last_name": "McEvoy",
+            "first_name": "Tanner",
+            "abbr_name": "T.McEvoy",
+            "preferred_name": "Tanner",
+            "birth_date": "1993-01-26",
+            "weight": 231.0,
+            "height": 78,
+            "status": "played",
+            "id": "8ac8cc85-6599-4956-819e-0887ccb72993",
+            "position": "WR",
+            "age": 23,
+            "birth_place": "Hillsdale, NJ, USA",
+            "high_school": "Bergen Catholic",
+            "college": "Wisconsin",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "00-0032475",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43595",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Paul Richardson",
+            "jersey": "10",
+            "last_name": "Richardson",
+            "first_name": "Paul",
+            "abbr_name": "P.Richardson",
+            "preferred_name": "Paul",
+            "birth_date": "1992-04-13",
+            "weight": 170.0,
+            "height": 73,
+            "status": "played",
+            "id": "cf1a34f1-1aa7-45a1-b2b3-ffbecc8834f7",
+            "position": "WR",
+            "age": 24,
+            "birth_place": "Los Angeles, CA, USA",
+            "high_school": "Junipero Serra (CA)",
+            "college": "Colorado",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 2,
+                "number": 45,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031257",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41274",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Justin Britt",
+            "jersey": "68",
+            "last_name": "Britt",
+            "first_name": "Justin",
+            "abbr_name": "J.Britt",
+            "preferred_name": "Justin",
+            "birth_date": "1991-05-29",
+            "weight": 325.0,
+            "height": 78,
+            "status": "started",
+            "id": "30fedd72-bf59-4a35-9aa9-dd01b1122c09",
+            "position": "C",
+            "age": 25,
+            "birth_place": "Lebanon, MO, USA",
+            "high_school": "Lebanon (MO)",
+            "college": "Missouri",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 2,
+                "number": 64,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031282",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41293",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Jeremy Lane",
+            "jersey": "20",
+            "last_name": "Lane",
+            "first_name": "Jeremy",
+            "abbr_name": "J.Lane",
+            "preferred_name": "Jeremy",
+            "birth_date": "1990-07-14",
+            "weight": 190.0,
+            "height": 72,
+            "status": "started",
+            "id": "88f23fe7-7bbe-4416-a98c-371d1f4d4f70",
+            "position": "CB",
+            "age": 26,
+            "birth_place": "Tyler, TX, USA",
+            "high_school": "Tyler John Tyler (TX)",
+            "college": "Northwestern State, La.",
+            "college_conf": "Southland Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 6,
+                "number": 172,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0029295",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "38702",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Doug Baldwin",
+            "jersey": "89",
+            "last_name": "Baldwin",
+            "first_name": "Doug",
+            "abbr_name": "D.Baldwin",
+            "preferred_name": "Doug",
+            "birth_date": "1988-09-21",
+            "weight": 189.0,
+            "height": 70,
+            "status": "started",
+            "id": "e1b29179-074b-4c91-8797-763b76ac618a",
+            "position": "WR",
+            "age": 27,
+            "birth_place": "Gulf Breeze, FL, USA",
+            "high_school": "Gulf Breeze (FL)",
+            "college": "Stanford",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2011,
+            "references": [
+                {
+                    "id": "37914",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028434",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Michael Morgan",
+            "jersey": "57",
+            "last_name": "Morgan",
+            "first_name": "Michael",
+            "abbr_name": "M.Morgan",
+            "preferred_name": "Michael",
+            "birth_date": "1988-01-16",
+            "weight": 226.0,
+            "height": 75,
+            "status": "played",
+            "id": "c4e604ea-cea1-4cde-bdb0-e95a747db0ee",
+            "position": "LB",
+            "age": 28,
+            "birth_place": "Dallas, TX, USA",
+            "high_school": "Skyline (TX)",
+            "college": "Southern California",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2011,
+            "references": [
+                {
+                    "id": "37923",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028443",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Steven Hauschka",
+            "jersey": "04",
+            "last_name": "Hauschka",
+            "first_name": "Steven",
+            "abbr_name": "S.Hauschka",
+            "preferred_name": "Steven",
+            "birth_date": "1985-06-29",
+            "weight": 210.0,
+            "height": 76,
+            "status": "played",
+            "id": "40cda44b-2ee3-4ad1-834e-995e30db84d4",
+            "position": "K",
+            "age": 31,
+            "birth_place": "Needham, MA, USA",
+            "high_school": "Needham (MA)",
+            "college": "North Carolina State",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2008,
+            "references": [
+                {
+                    "id": "00-0025944",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "33469",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "K.J. Wright",
+            "jersey": "50",
+            "last_name": "Wright",
+            "first_name": "K.J.",
+            "abbr_name": "K.Wright",
+            "preferred_name": "K.J.",
+            "birth_date": "1989-07-23",
+            "weight": 246.0,
+            "height": 76,
+            "status": "started",
+            "id": "93ff0e6f-fee3-41d1-a913-6111cd9ebef1",
+            "position": "LB",
+            "age": 27,
+            "birth_place": "Memphis, TN, USA",
+            "high_school": "Olive Branch (MS)",
+            "college": "Mississippi State",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2011,
+            "draft": {
+                "year": 2011,
+                "round": 4,
+                "number": 99,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "37174",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028037",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Christine Michael",
+            "jersey": "32",
+            "last_name": "Michael",
+            "first_name": "Christine",
+            "abbr_name": "C.Michael",
+            "preferred_name": "Christine",
+            "birth_date": "1990-11-09",
+            "weight": 221.0,
+            "height": 70,
+            "status": "started",
+            "id": "cf8e8522-6220-4612-a8a1-72c496dac536",
+            "position": "RB",
+            "age": 25,
+            "birth_place": "Beaumont, TX, USA",
+            "high_school": "West Brook (TX)",
+            "college": "Texas A&M",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 2,
+                "number": 62,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0030432",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40010",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Bobby Wagner",
+            "jersey": "54",
+            "last_name": "Wagner",
+            "first_name": "Bobby",
+            "abbr_name": "B.Wagner",
+            "preferred_name": "Bobby",
+            "birth_date": "1990-06-27",
+            "weight": 241.0,
+            "height": 72,
+            "status": "started",
+            "id": "706bc0ab-7200-47e9-9b09-726110eb83dc",
+            "position": "LB",
+            "age": 26,
+            "birth_place": "Ontario, CA, USA",
+            "high_school": "Colony (CA)",
+            "college": "Utah State",
+            "college_conf": "Western Athletic Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 2,
+                "number": 47,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "38577",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0029255",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Dewey McDonald",
+            "jersey": "41",
+            "last_name": "McDonald",
+            "first_name": "Dewey",
+            "abbr_name": "D.McDonald",
+            "preferred_name": "Dewey",
+            "birth_date": "1990-06-10",
+            "weight": 220.0,
+            "height": 72,
+            "status": "deactivated",
+            "id": "6c6b0866-af70-4c66-90db-d6637268e22a",
+            "position": "LB",
+            "age": 26,
+            "birth_place": "Ranson, WV, USA",
+            "high_school": "Jefferson (WV)",
+            "college": "California, Pa.",
+            "college_conf": "Pennsylvania State Athletic Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "00-0030650",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41487",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Ahtyba Rubin",
+            "jersey": "77",
+            "last_name": "Rubin",
+            "first_name": "Ahtyba",
+            "abbr_name": "A.Rubin",
+            "preferred_name": "Ahtyba",
+            "birth_date": "1986-07-25",
+            "weight": 325.0,
+            "height": 74,
+            "status": "started",
+            "id": "f83bfd85-4007-4c7c-ba54-75bedfc3c3c1",
+            "position": "DT",
+            "age": 30,
+            "birth_place": "Fort Belvoir, VA, USA",
+            "high_school": "Escambia (FL)",
+            "college": "Iowa State",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2008,
+            "draft": {
+                "year": 2008,
+                "round": 6,
+                "number": 190,
+                "team": {
+                    "name": "Browns",
+                    "market": "Cleveland",
+                    "alias": "CLE",
+                    "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e"
+                }
+            },
+            "references": [
+                {
+                    "id": "33271",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0026330",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Michael Bennett",
+            "jersey": "72",
+            "last_name": "Bennett",
+            "first_name": "Michael",
+            "abbr_name": "M.Bennett",
+            "preferred_name": "Michael",
+            "birth_date": "1985-11-13",
+            "weight": 274.0,
+            "height": 76,
+            "status": "started",
+            "id": "485369eb-3586-4aa2-9628-77d954f23da3",
+            "position": "DE",
+            "age": 30,
+            "birth_place": "Avondale, LA, USA",
+            "high_school": "Alief Taylor (TX)",
+            "college": "Texas A&M",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2009,
+            "references": [
+                {
+                    "id": "00-0026618",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "34836",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Trevone Boykin",
+            "jersey": "02",
+            "last_name": "Boykin",
+            "first_name": "Trevone",
+            "abbr_name": "T.Boykin",
+            "preferred_name": "Trevone",
+            "birth_date": "1993-08-22",
+            "weight": 205.0,
+            "height": 74,
+            "status": "dnp",
+            "id": "648a6a76-32c3-45fa-b158-f77de2a9a95f",
+            "position": "QB",
+            "age": 23,
+            "birth_place": "Dallas, TX, USA",
+            "high_school": "West Mesquite ",
+            "college": "Texas Christian",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "00-0032462",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43582",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Kam Chancellor",
+            "jersey": "31",
+            "last_name": "Chancellor",
+            "first_name": "Kam",
+            "abbr_name": "K.Chancellor",
+            "preferred_name": "Kam",
+            "birth_date": "1988-04-03",
+            "weight": 232.0,
+            "height": 75,
+            "status": "started",
+            "id": "1f49b95a-97cb-426e-8bd0-aeeb4b5b0ad1",
+            "position": "SS",
+            "age": 28,
+            "birth_place": "Norfolk, VA, USA",
+            "high_school": "Maury (VA)",
+            "college": "Virginia Tech",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 5,
+                "number": 133,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0027733",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "35572",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Earl Thomas",
+            "jersey": "29",
+            "last_name": "Thomas",
+            "first_name": "Earl",
+            "abbr_name": "E.Thomas",
+            "preferred_name": "Earl",
+            "birth_date": "1989-05-07",
+            "weight": 202.0,
+            "height": 70,
+            "status": "started",
+            "id": "4094730d-a3ad-4c7e-a899-a3c8001748d9",
+            "position": "FS",
+            "age": 27,
+            "birth_place": "Orange, TX, USA",
+            "high_school": "West Orange-Stark (TX)",
+            "college": "Texas",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 1,
+                "number": 14,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "35453",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027866",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Luke Willson",
+            "jersey": "82",
+            "last_name": "Willson",
+            "first_name": "Luke",
+            "abbr_name": "L.Willson",
+            "preferred_name": "Luke",
+            "birth_date": "1990-01-15",
+            "weight": 252.0,
+            "height": 77,
+            "status": "started",
+            "id": "16c67c97-ffd9-4f92-917d-ad6124ce1f6e",
+            "position": "TE",
+            "age": 26,
+            "birth_place": "LaSalle, ON, CAN",
+            "high_school": "St. Thomas of Villanova (Canada)",
+            "college": "Rice",
+            "college_conf": "Conference USA",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 5,
+                "number": 158,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0030089",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40106",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Tony McDaniel",
+            "jersey": "93",
+            "last_name": "McDaniel",
+            "first_name": "Tony",
+            "abbr_name": "T.McDaniel",
+            "preferred_name": "Tony",
+            "birth_date": "1985-01-20",
+            "weight": 305.0,
+            "height": 79,
+            "status": "played",
+            "id": "2f1ff269-5556-4180-a46d-726c8491ae39",
+            "position": "DT",
+            "age": 31,
+            "birth_place": "Hartsville, SC, USA",
+            "high_school": "Keenan (SC)",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2006,
+            "references": [
+                {
+                    "id": "00-0024102",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "31162",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Nolan Frese",
+            "jersey": "48",
+            "last_name": "Frese",
+            "first_name": "Nolan",
+            "abbr_name": "N.Frese",
+            "preferred_name": "Nolan",
+            "birth_date": "1992-07-29",
+            "weight": 235.0,
+            "height": 74,
+            "status": "played",
+            "id": "c6194bc4-ed96-4214-ab05-e16e5e5154ce",
+            "position": "LS",
+            "age": 24,
+            "birth_place": "Roanoke, TX, USA",
+            "high_school": "Keller",
+            "college": "Houston",
+            "college_conf": "American Athletic Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "00-0033128",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "44159",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Nick Vannett",
+            "jersey": "81",
+            "last_name": "Vannett",
+            "first_name": "Nick",
+            "abbr_name": "N.Vannett",
+            "preferred_name": "Nick",
+            "birth_date": "1993-03-06",
+            "weight": 260.0,
+            "height": 78,
+            "status": "deactivated",
+            "id": "c731aa8a-778b-4ccd-a19f-517eb66f47b7",
+            "position": "TE",
+            "age": 23,
+            "birth_place": "Westerville, OH, USA",
+            "high_school": "Central ",
+            "college": "Ohio State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 3,
+                "number": 94,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032394",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43383",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Quinton Jefferson",
+            "jersey": "99",
+            "last_name": "Jefferson",
+            "first_name": "Quinton",
+            "abbr_name": "Q.Jefferson",
+            "preferred_name": "Quinton",
+            "birth_date": "1993-03-31",
+            "weight": 289.0,
+            "height": 75,
+            "status": "played",
+            "id": "c187d2b3-5d96-4035-a166-db6689b463bf",
+            "position": "DT",
+            "age": 23,
+            "birth_place": "Pittsburgh, PA, USA",
+            "high_school": "Woodland Hills",
+            "college": "Maryland",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 5,
+                "number": 147,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032416",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43436",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Williams",
+            "jersey": "86",
+            "last_name": "Williams",
+            "first_name": "Brandon",
+            "abbr_name": "B.Williams",
+            "preferred_name": "Brandon",
+            "birth_date": "1987-10-12",
+            "weight": 255.0,
+            "height": 76,
+            "status": "played",
+            "id": "b6cca4b9-a1f4-45f1-a042-259da4d2d7db",
+            "position": "TE",
+            "age": 28,
+            "birth_place": "Blue Island, IL, USA",
+            "college": "Oregon",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2013,
+            "references": [
+                {
+                    "id": "00-0029793",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40246",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Mark Glowinski",
+            "jersey": "63",
+            "last_name": "Glowinski",
+            "first_name": "Mark",
+            "abbr_name": "M.Glowinski",
+            "preferred_name": "Mark",
+            "birth_date": "1992-05-03",
+            "weight": 310.0,
+            "height": 76,
+            "status": "started",
+            "id": "cbbf7b76-cd26-462e-bc18-d80f5109723b",
+            "position": "G",
+            "age": 24,
+            "birth_place": "Wilkes-Barre, PA, USA",
+            "high_school": "GAR Memorial",
+            "college": "West Virginia",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 4,
+                "number": 134,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "42477",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031581",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Tyvis Powell",
+            "jersey": "40",
+            "last_name": "Powell",
+            "first_name": "Tyvis",
+            "abbr_name": "T.Powell",
+            "preferred_name": "Tyvis",
+            "birth_date": "1994-02-16",
+            "weight": 208.0,
+            "height": 75,
+            "status": "played",
+            "id": "5405b613-39ef-4c12-977c-e199bf112e43",
+            "position": "SS",
+            "age": 22,
+            "birth_place": "Bedford, OH, USA",
+            "high_school": "Bedford",
+            "college": "Ohio State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "43599",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032479",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "DeShawn Shead",
+            "jersey": "35",
+            "last_name": "Shead",
+            "first_name": "DeShawn",
+            "abbr_name": "D.Shead",
+            "preferred_name": "DeShawn",
+            "birth_date": "1989-06-28",
+            "weight": 220.0,
+            "height": 74,
+            "status": "started",
+            "id": "588022c3-f9c6-4f30-b4ea-a264f99fc997",
+            "position": "DB",
+            "age": 27,
+            "birth_place": "Palmdale, CA, USA",
+            "high_school": "Highland (CA)",
+            "college": "Portland State",
+            "college_conf": "Big Sky Conference",
+            "rookie_year": 2012,
+            "references": [
+                {
+                    "id": "39173",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0029191",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Taniela Tupou",
+            "jersey": "44",
+            "last_name": "Tupou",
+            "first_name": "Taniela",
+            "abbr_name": "T.Tupou",
+            "preferred_name": "Taniela",
+            "birth_date": "1992-12-13",
+            "weight": 288.0,
+            "height": 74,
+            "status": "played",
+            "id": "f50fb156-fc3a-4930-aa51-8fe977ef6984",
+            "position": "FB",
+            "age": 23,
+            "birth_place": "Marysville, WA, USA",
+            "high_school": "Archbishop Murphy",
+            "college": "Washington",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "43919",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032852",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Bradley Sowell",
+            "jersey": "78",
+            "last_name": "Sowell",
+            "first_name": "Bradley",
+            "abbr_name": "B.Sowell",
+            "preferred_name": "Bradley",
+            "birth_date": "1989-06-06",
+            "weight": 315.0,
+            "height": 79,
+            "status": "started",
+            "id": "b80f5604-dcbf-42e5-aaab-0e996b318002",
+            "position": "T",
+            "age": 27,
+            "birth_place": "Hernando, MS, USA",
+            "high_school": "Hernando (MS)",
+            "college": "Mississippi",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2012,
+            "references": [
+                {
+                    "id": "39038",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0029091",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jon Ryan",
+            "jersey": "09",
+            "last_name": "Ryan",
+            "first_name": "Jon",
+            "abbr_name": "J.Ryan",
+            "preferred_name": "Jon",
+            "birth_date": "1981-11-26",
+            "weight": 217.0,
+            "height": 72,
+            "status": "played",
+            "id": "f6b48c8b-66ac-47a3-aafc-5addce6a6d82",
+            "position": "P",
+            "age": 34,
+            "birth_place": "Regina, SK, CAN",
+            "high_school": "Sheldon-Williams Collegiate (SK)",
+            "college": "Regina, Can.",
+            "college_conf": "Canada West Universities Athletic Association",
+            "rookie_year": 2006,
+            "references": [
+                {
+                    "id": "30714",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0023742",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Alex Collins",
+            "jersey": "36",
+            "last_name": "Collins",
+            "first_name": "Alex",
+            "abbr_name": "A.Collins",
+            "preferred_name": "Alex",
+            "birth_date": "1994-08-26",
+            "weight": 215.0,
+            "height": 71,
+            "status": "deactivated",
+            "id": "990a689e-200b-4cda-85db-85d6c3af911c",
+            "position": "RB",
+            "age": 22,
+            "birth_place": "Fort Lauderdale, FL, USA",
+            "high_school": "South Plantation (FL)",
+            "college": "Arkansas",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 5,
+                "number": 171,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032426",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43460",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "DeAndre Elliott",
+            "jersey": "21",
+            "last_name": "Elliott",
+            "first_name": "DeAndre",
+            "abbr_name": "D.Elliott",
+            "preferred_name": "DeAndre",
+            "birth_date": "1992-11-21",
+            "weight": 185.0,
+            "height": 73,
+            "status": "played",
+            "id": "57026301-74b5-429b-b586-c48f3b295c0b",
+            "position": "CB",
+            "age": 23,
+            "birth_place": "Dallas, TX, USA",
+            "high_school": "Carter",
+            "college": "Colorado State",
+            "college_conf": "Mountain West Conference",
+            "rookie_year": 2016,
+            "references": [
+                {
+                    "id": "43585",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032465",
+                    "origin": "gsis"
+                }
+            ]
+        }
+    ]
+}, "away": {
+    "name": "Dolphins",
+    "market": "Miami",
+    "alias": "MIA",
+    "reference": "4992",
+    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+    "players": [
+        {
+            "name": "Walt Aikens",
+            "jersey": "35",
+            "last_name": "Aikens",
+            "first_name": "Walt",
+            "abbr_name": "W.Aikens",
+            "preferred_name": "Walt",
+            "birth_date": "1991-06-19",
+            "weight": 210.0,
+            "height": 73,
+            "status": "played",
+            "id": "19403487-1d34-434b-8fc2-a8852167af76",
+            "position": "S",
+            "age": 25,
+            "birth_place": "Charlotte, NC, USA",
+            "high_school": "Harding University (IL)",
+            "college": "Liberty",
+            "college_conf": "Big South Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 4,
+                "number": 125,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "41354",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031307",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Terrence Fede",
+            "jersey": "78",
+            "last_name": "Fede",
+            "first_name": "Terrence",
+            "abbr_name": "T.Fede",
+            "preferred_name": "Terrence",
+            "birth_date": "1991-11-19",
+            "weight": 282.0,
+            "height": 76,
+            "status": "deactivated",
+            "id": "5064d069-aa24-4828-81c9-c78e0e56fb78",
+            "position": "DE",
+            "age": 24,
+            "birth_place": "Nyack, NY, USA",
+            "high_school": "Nyack (NY)",
+            "college": "Marist",
+            "college_conf": "Pioneer Football League",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 7,
+                "number": 234,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "41463",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031317",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Damien Williams",
+            "jersey": "26",
+            "last_name": "Williams",
+            "first_name": "Damien",
+            "abbr_name": "D.Williams",
+            "preferred_name": "Damien",
+            "birth_date": "1992-04-03",
+            "weight": 221.0,
+            "height": 71,
+            "status": "played",
+            "id": "90908a56-901b-466d-8689-943075da96fe",
+            "position": "RB",
+            "age": 24,
+            "birth_place": "San Diego, CA, USA",
+            "high_school": "Mira Mesa (CA)",
+            "college": "Oklahoma",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "41712",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030874",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jelani Jenkins",
+            "jersey": "53",
+            "last_name": "Jenkins",
+            "first_name": "Jelani",
+            "abbr_name": "J.Jenkins",
+            "preferred_name": "Jelani",
+            "birth_date": "1992-03-13",
+            "weight": 245.0,
+            "height": 72,
+            "status": "played",
+            "id": "9f1a0910-090f-4f28-bb5e-0593e6f0a3bc",
+            "position": "LB",
+            "age": 24,
+            "birth_place": "Olney, MD, USA",
+            "high_school": "Our Lady of Good Counsel (MD)",
+            "college": "Florida",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 4,
+                "number": 104,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "40052",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030384",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jermon Bushrod",
+            "jersey": "74",
+            "last_name": "Bushrod",
+            "first_name": "Jermon",
+            "abbr_name": "J.Bushrod",
+            "preferred_name": "Jermon",
+            "birth_date": "1984-08-19",
+            "weight": 315.0,
+            "height": 77,
+            "status": "started",
+            "id": "b31b2a6b-1464-4c78-a19c-1f6ae627d519",
+            "position": "G/T",
+            "age": 32,
+            "birth_place": "King George, VA, USA",
+            "high_school": "King George (VA)",
+            "college": "Towson",
+            "college_conf": "Atlantic 10",
+            "rookie_year": 2007,
+            "draft": {
+                "year": 2007,
+                "round": 4,
+                "number": 125,
+                "team": {
+                    "name": "Saints",
+                    "market": "New Orleans",
+                    "alias": "NO",
+                    "id": "0d855753-ea21-4953-89f9-0e20aff9eb73"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0025512",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "32318",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Andrew Franks",
+            "jersey": "03",
+            "last_name": "Franks",
+            "first_name": "Andrew",
+            "abbr_name": "A.Franks",
+            "preferred_name": "Andrew",
+            "birth_date": "1993-01-11",
+            "weight": 205.0,
+            "height": 73,
+            "status": "played",
+            "id": "59da7aea-f21a-43c5-b0bf-2d1e8b19da80",
+            "position": "K",
+            "age": 23,
+            "birth_place": "Carmel, CA, USA",
+            "high_school": "Carmel High School ",
+            "college": "Rensselaer Polytech",
+            "college_conf": "Liberty League",
+            "rookie_year": 2015,
+            "references": [
+                {
+                    "id": "42749",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031718",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Kenyan Drake",
+            "jersey": "32",
+            "last_name": "Drake",
+            "first_name": "Kenyan",
+            "abbr_name": "K.Drake",
+            "preferred_name": "Kenyan",
+            "birth_date": "1994-01-26",
+            "weight": 210.0,
+            "height": 73,
+            "status": "played",
+            "id": "a0b93053-d349-4dd1-a840-24577102699b",
+            "position": "RB",
+            "age": 22,
+            "birth_place": "Powder Springs, GA, USA",
+            "high_school": "Hillgrove",
+            "college": "Alabama",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 3,
+                "number": 73,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "43362",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0033118",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "John Denney",
+            "jersey": "92",
+            "last_name": "Denney",
+            "first_name": "John",
+            "abbr_name": "J.Denney",
+            "preferred_name": "John",
+            "birth_date": "1978-12-13",
+            "weight": 252.0,
+            "height": 77,
+            "status": "played",
+            "id": "ca1aab05-e07b-437e-84c6-2bdb47433782",
+            "position": "LS",
+            "age": 37,
+            "birth_place": "Denver, CO, USA",
+            "high_school": "Horizon (CO)",
+            "college": "Brigham Young",
+            "college_conf": "Mountain West Conference",
+            "rookie_year": 2005,
+            "references": [
+                {
+                    "id": "30311",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0023173",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "DeVante Parker",
+            "jersey": "11",
+            "last_name": "Parker",
+            "first_name": "DeVante",
+            "abbr_name": "D.Parker",
+            "preferred_name": "DeVante",
+            "birth_date": "1993-01-20",
+            "weight": 209.0,
+            "height": 75,
+            "status": "deactivated",
+            "id": "e9ee9209-dd8f-4e4a-be3c-407756a2749c",
+            "position": "WR",
+            "age": 23,
+            "birth_place": "Louisville, KY, USA",
+            "high_school": "Ballard (KY)",
+            "college": "Louisville",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 1,
+                "number": 14,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "42357",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031547",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Branden Albert",
+            "jersey": "76",
+            "last_name": "Albert",
+            "first_name": "Branden",
+            "abbr_name": "B.Albert",
+            "preferred_name": "Branden",
+            "birth_date": "1984-11-04",
+            "weight": 310.0,
+            "height": 77,
+            "status": "started",
+            "id": "868a2028-46f6-4263-91ca-e7907cbdf5e7",
+            "position": "T",
+            "age": 31,
+            "birth_place": "Rochester, NY, USA",
+            "high_school": "Glen Burnie (MD)",
+            "college": "Virginia",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2008,
+            "draft": {
+                "year": 2008,
+                "round": 1,
+                "number": 15,
+                "team": {
+                    "name": "Chiefs",
+                    "market": "Kansas City",
+                    "alias": "KC",
+                    "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0026155",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "33096",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Matt Darr",
+            "jersey": "04",
+            "last_name": "Darr",
+            "first_name": "Matt",
+            "abbr_name": "M.Darr",
+            "preferred_name": "Matt",
+            "birth_date": "1992-07-02",
+            "weight": 220.0,
+            "height": 73,
+            "status": "played",
+            "id": "325735c1-9fa1-48ee-bb8d-2ae45781f28d",
+            "position": "P",
+            "age": 24,
+            "birth_place": "Bakersfield, CA, USA",
+            "high_school": "Frontier",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2015,
+            "references": [
+                {
+                    "id": "42747",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031716",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Dion Sims",
+            "jersey": "80",
+            "last_name": "Sims",
+            "first_name": "Dion",
+            "abbr_name": "D.Sims",
+            "preferred_name": "Dion",
+            "birth_date": "1991-02-18",
+            "weight": 265.0,
+            "height": 76,
+            "status": "played",
+            "id": "9c04a540-cb7c-41dc-8e7c-50b7af29a3a2",
+            "position": "TE",
+            "age": 25,
+            "birth_place": "Detroit, MI, USA",
+            "high_school": "St. Mary's Prep (MI)",
+            "college": "Michigan State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 4,
+                "number": 106,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0030422",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40054",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Kenny Stills",
+            "jersey": "10",
+            "last_name": "Stills",
+            "first_name": "Kenny",
+            "abbr_name": "K.Stills",
+            "preferred_name": "Kenny",
+            "birth_date": "1992-04-22",
+            "weight": 194.0,
+            "height": 72,
+            "status": "started",
+            "id": "4734f8dc-2ca4-4437-88f2-c8b8974abefc",
+            "position": "WR",
+            "age": 24,
+            "birth_place": "Oceanside, CA, USA",
+            "high_school": "La Costa Canyon (CA)",
+            "college": "Oklahoma",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 5,
+                "number": 144,
+                "team": {
+                    "name": "Saints",
+                    "market": "New Orleans",
+                    "alias": "NO",
+                    "id": "0d855753-ea21-4953-89f9-0e20aff9eb73"
+                }
+            },
+            "references": [
+                {
+                    "id": "40092",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030085",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Leonte Carroo",
+            "jersey": "88",
+            "last_name": "Carroo",
+            "first_name": "Leonte",
+            "abbr_name": "L.Carroo",
+            "preferred_name": "Leonte",
+            "birth_date": "1994-01-24",
+            "weight": 211.0,
+            "height": 72,
+            "status": "started",
+            "id": "931dbb14-36ac-4044-a61e-5f11854f0383",
+            "position": "WR",
+            "age": 22,
+            "birth_place": "Edison, NJ, USA",
+            "high_school": "Don Bosco Prep",
+            "college": "Rutgers",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 3,
+                "number": 86,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0033060",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43375",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Doughty",
+            "jersey": "06",
+            "last_name": "Doughty",
+            "first_name": "Brandon",
+            "abbr_name": "B.Doughty",
+            "preferred_name": "Brandon",
+            "birth_date": "1991-10-06",
+            "weight": 210.0,
+            "height": 75,
+            "status": "deactivated",
+            "id": "0b2fccc4-945f-439d-a6df-9db87fb87398",
+            "position": "QB",
+            "age": 24,
+            "birth_place": "Davie, FL, USA",
+            "high_school": "North Broward Prep",
+            "college": "Western Kentucky",
+            "college_conf": "Conference USA",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 7,
+                "number": 223,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032446",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43512",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Bobby McCain",
+            "jersey": "28",
+            "last_name": "McCain",
+            "first_name": "Bobby",
+            "abbr_name": "B.McCain",
+            "preferred_name": "Bobby",
+            "birth_date": "1993-08-18",
+            "weight": 195.0,
+            "height": 69,
+            "status": "played",
+            "id": "7f32c3e6-113f-4922-b51d-a1a5a1d43bcf",
+            "position": "CB",
+            "age": 23,
+            "birth_place": "Ocford, AL, USA",
+            "high_school": "Oxford",
+            "college": "Memphis",
+            "college_conf": "American Athletic Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 5,
+                "number": 145,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "42488",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031587",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jason Jones",
+            "jersey": "98",
+            "last_name": "Jones",
+            "first_name": "Jason",
+            "abbr_name": "J.Jones",
+            "preferred_name": "Jason",
+            "birth_date": "1986-05-23",
+            "weight": 275.0,
+            "height": 77,
+            "status": "started",
+            "id": "06809e0e-1a00-4ff0-9f86-8a33d42fcd81",
+            "position": "DE",
+            "age": 30,
+            "birth_place": "Detroit, MI, USA",
+            "high_school": "Lathrup (MI)",
+            "college": "Eastern Michigan",
+            "college_conf": "Mid-American Conference",
+            "rookie_year": 2008,
+            "draft": {
+                "year": 2008,
+                "round": 2,
+                "number": 54,
+                "team": {
+                    "name": "Titans",
+                    "market": "Tennessee",
+                    "alias": "TEN",
+                    "id": "d26a1ca5-722d-4274-8f97-c92e49c96315"
+                }
+            },
+            "references": [
+                {
+                    "id": "33135",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0026194",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jarvis Landry",
+            "jersey": "14",
+            "last_name": "Landry",
+            "first_name": "Jarvis",
+            "abbr_name": "J.Landry",
+            "preferred_name": "Jarvis",
+            "birth_date": "1992-11-28",
+            "weight": 202.0,
+            "height": 71,
+            "status": "started",
+            "id": "06e41dc1-d5dc-4bdc-8fc3-e0d7c3a99ac4",
+            "position": "WR",
+            "age": 23,
+            "birth_place": "Metairie, LA, USA",
+            "high_school": "Lutcher (LA)",
+            "college": "Louisiana State",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 2,
+                "number": 63,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031382",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41292",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Jay Ajayi",
+            "jersey": "23",
+            "last_name": "Ajayi",
+            "first_name": "Jay",
+            "abbr_name": "J.Ajayi",
+            "preferred_name": "Jay",
+            "birth_date": "1993-06-15",
+            "weight": 221.0,
+            "height": 72,
+            "status": "deactivated",
+            "id": "bb78a66a-a8ec-4294-8858-c7e5a1d15106",
+            "position": "RB",
+            "age": 23,
+            "birth_place": "Plano, TX, USA",
+            "high_school": "Frisco Liberty",
+            "college": "Boise State",
+            "college_conf": "Mountain West Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 5,
+                "number": 149,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "42492",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031590",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Dallas Thomas",
+            "jersey": "63",
+            "last_name": "Thomas",
+            "first_name": "Dallas",
+            "abbr_name": "Dal.Thomas",
+            "preferred_name": "Dallas",
+            "birth_date": "1989-10-30",
+            "weight": 315.0,
+            "height": 77,
+            "status": "deactivated",
+            "id": "a8a0f86e-84c0-4a26-9991-f3d83d6bba98",
+            "position": "G",
+            "age": 26,
+            "birth_place": "Baton Rouge, LA, USA",
+            "high_school": "Scotlandville (LA)",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 3,
+                "number": 77,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "40025",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030531",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Mike Pouncey",
+            "jersey": "51",
+            "last_name": "Pouncey",
+            "first_name": "Mike",
+            "abbr_name": "M.Pouncey",
+            "preferred_name": "Mike",
+            "birth_date": "1989-07-24",
+            "weight": 305.0,
+            "height": 77,
+            "status": "deactivated",
+            "id": "041c36ad-0d7d-4ed1-8157-95092b3027a4",
+            "position": "C",
+            "age": 27,
+            "birth_place": "Ardmore, OK, USA",
+            "high_school": "Lakeland (FL)",
+            "college": "Florida",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2011,
+            "draft": {
+                "year": 2011,
+                "round": 1,
+                "number": 15,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "37088",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027953",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Kraig Urbik",
+            "jersey": "60",
+            "last_name": "Urbik",
+            "first_name": "Kraig",
+            "abbr_name": "K.Urbik",
+            "preferred_name": "Kraig",
+            "birth_date": "1985-09-23",
+            "weight": 324.0,
+            "height": 77,
+            "status": "played",
+            "id": "a4600df5-9f1f-40ba-b4a2-07cdffaf3969",
+            "position": "C/G",
+            "age": 30,
+            "birth_place": "Chicago, IL, USA",
+            "high_school": "Hudson (WI)",
+            "college": "Wisconsin",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2009,
+            "draft": {
+                "year": 2009,
+                "round": 3,
+                "number": 79,
+                "team": {
+                    "name": "Steelers",
+                    "market": "Pittsburgh",
+                    "alias": "PIT",
+                    "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398"
+                }
+            },
+            "references": [
+                {
+                    "id": "34530",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027053",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jakeem Grant",
+            "jersey": "19",
+            "last_name": "Grant",
+            "first_name": "Jakeem",
+            "abbr_name": "J.Grant",
+            "preferred_name": "Jakeem",
+            "birth_date": "1992-10-30",
+            "weight": 168.0,
+            "height": 67,
+            "status": "played",
+            "id": "5de11f0b-8da9-42ba-9a93-db7f0a58543b",
+            "position": "WR",
+            "age": 23,
+            "birth_place": "Athens, TX, USA",
+            "high_school": "Mesquite Horn",
+            "college": "Texas Tech",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 6,
+                "number": 186,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "43475",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0032791",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Billy Turner",
+            "jersey": "77",
+            "last_name": "Turner",
+            "first_name": "Billy",
+            "abbr_name": "B.Turner",
+            "preferred_name": "Billy",
+            "birth_date": "1991-10-17",
+            "weight": 315.0,
+            "height": 77,
+            "status": "played",
+            "id": "7788ca8f-88c8-447f-9110-3cfd3ca5efd8",
+            "position": "G",
+            "age": 24,
+            "birth_place": "Shoreview, MN, USA",
+            "high_school": "Mounds View (MN)",
+            "college": "North Dakota State",
+            "college_conf": "Missouri Valley Football Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 3,
+                "number": 67,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031433",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "41296",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Neville Hewitt",
+            "jersey": "46",
+            "last_name": "Hewitt",
+            "first_name": "Neville",
+            "abbr_name": "N.Hewitt",
+            "preferred_name": "Neville",
+            "birth_date": "1993-04-06",
+            "weight": 219.0,
+            "height": 74,
+            "status": "played",
+            "id": "fa4ae025-fd66-4752-94fa-63e22ae8abd4",
+            "position": "LB",
+            "age": 23,
+            "birth_place": "Conyers, GA, USA",
+            "high_school": "Rockdale County",
+            "college": "Marshall",
+            "college_conf": "Conference USA",
+            "rookie_year": 2015,
+            "references": [
+                {
+                    "id": "00-0031740",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "42771",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Matt Moore",
+            "jersey": "08",
+            "last_name": "Moore",
+            "first_name": "Matt",
+            "abbr_name": "M.Moore",
+            "preferred_name": "Matt",
+            "birth_date": "1984-08-09",
+            "weight": 220.0,
+            "height": 75,
+            "status": "dnp",
+            "id": "76d7615e-8eb5-4761-b6a6-1e895d01baf3",
+            "position": "QB",
+            "age": 32,
+            "birth_place": "Van Nuys, CA, USA",
+            "high_school": "Hart (CA)",
+            "college": "Oregon State",
+            "college_conf": "Pacific Ten Conference",
+            "rookie_year": 2007,
+            "references": [
+                {
+                    "id": "00-0025708",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "32853",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Jordan Cameron",
+            "jersey": "84",
+            "last_name": "Cameron",
+            "first_name": "Jordan",
+            "abbr_name": "J.Cameron",
+            "preferred_name": "Jordan",
+            "birth_date": "1988-08-07",
+            "weight": 249.0,
+            "height": 77,
+            "status": "started",
+            "id": "44257544-0a90-4bca-b759-e589a70cf168",
+            "position": "TE",
+            "age": 28,
+            "birth_place": "Los Angeles, CA, USA",
+            "high_school": "Newbury Park (CA)",
+            "college": "Southern California",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2011,
+            "draft": {
+                "year": 2011,
+                "round": 4,
+                "number": 102,
+                "team": {
+                    "name": "Browns",
+                    "market": "Cleveland",
+                    "alias": "CLE",
+                    "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0028040",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "37177",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Laremy Tunsil",
+            "jersey": "67",
+            "last_name": "Tunsil",
+            "first_name": "Laremy",
+            "abbr_name": "L.Tunsil",
+            "preferred_name": "Laremy",
+            "birth_date": "1994-08-02",
+            "weight": 305.0,
+            "height": 77,
+            "status": "started",
+            "id": "813c2073-8f69-4f6f-94a6-6819cd14b4f3",
+            "position": "G/T",
+            "age": 22,
+            "birth_place": "Lake City, FL, USA",
+            "high_school": "Columbia (FL)",
+            "college": "Mississippi",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 1,
+                "number": 13,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032380",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43302",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Cameron Wake",
+            "jersey": "91",
+            "last_name": "Wake",
+            "first_name": "Cameron",
+            "abbr_name": "C.Wake",
+            "preferred_name": "Cameron",
+            "birth_date": "1982-01-30",
+            "weight": 262.0,
+            "height": 75,
+            "status": "played",
+            "id": "2d23b5d1-fbee-41df-bd6f-dd984d03a4d1",
+            "position": "DE",
+            "age": 34,
+            "birth_place": "Beltsville, MD, USA",
+            "high_school": "Dematha (MD)",
+            "college": "Penn State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2005,
+            "references": [
+                {
+                    "id": "00-0023368",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "30153",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Reshad Jones",
+            "jersey": "20",
+            "last_name": "Jones",
+            "first_name": "Reshad",
+            "abbr_name": "R.Jones",
+            "preferred_name": "Reshad",
+            "birth_date": "1988-02-25",
+            "weight": 215.0,
+            "height": 73,
+            "status": "started",
+            "id": "76f95387-3bc1-4756-a714-a4b1a93f23ff",
+            "position": "S",
+            "age": 28,
+            "birth_place": "Atlanta, GA, USA",
+            "high_school": "Washington (GA)",
+            "college": "Georgia",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 5,
+                "number": 163,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0027762",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "35602",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Isaiah Pead",
+            "jersey": "22",
+            "last_name": "Pead",
+            "first_name": "Isaiah",
+            "abbr_name": "I.Pead",
+            "preferred_name": "Isaiah",
+            "birth_date": "1989-12-14",
+            "weight": 204.0,
+            "height": 70,
+            "status": "deactivated",
+            "id": "37acea2b-df62-4aa6-a064-cf63f20efc12",
+            "position": "RB",
+            "age": 26,
+            "birth_place": "Columbus, OH, USA",
+            "high_school": "Eastmoor Academy (OH)",
+            "college": "Cincinnati",
+            "college_conf": "American Athletic Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 2,
+                "number": 50,
+                "team": {
+                    "name": "Rams",
+                    "market": "St. Louis",
+                    "alias": "STL",
+                    "id": "39f349de-6463-4803-ad70-f1e0f144f5ed"
+                }
+            },
+            "references": [
+                {
+                    "id": "38580",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0029626",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Arian Foster",
+            "jersey": "29",
+            "last_name": "Foster",
+            "first_name": "Arian",
+            "abbr_name": "A.Foster",
+            "preferred_name": "Arian",
+            "birth_date": "1986-08-24",
+            "weight": 227.0,
+            "height": 73,
+            "status": "started",
+            "id": "d89d2aef-c383-4ddf-bed8-3761aed35b10",
+            "position": "RB",
+            "age": 30,
+            "birth_place": "Albuquerque, NM, USA",
+            "high_school": "Valley (NM)",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2009,
+            "references": [
+                {
+                    "id": "35021",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0026796",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Andre Branch",
+            "jersey": "50",
+            "last_name": "Branch",
+            "first_name": "Andre",
+            "abbr_name": "A.Branch",
+            "preferred_name": "Andre",
+            "birth_date": "1989-07-14",
+            "weight": 265.0,
+            "height": 77,
+            "status": "played",
+            "id": "ba384269-98b5-47ee-93bb-18a4e71ad0eb",
+            "position": "DE",
+            "age": 27,
+            "birth_place": "Richmond, VA, USA",
+            "high_school": "Varina HS (VA)",
+            "college": "Clemson",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 2,
+                "number": 38,
+                "team": {
+                    "name": "Jaguars",
+                    "market": "Jacksonville",
+                    "alias": "JAC",
+                    "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0029600",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "38568",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Earl Mitchell",
+            "jersey": "90",
+            "last_name": "Mitchell",
+            "first_name": "Earl",
+            "abbr_name": "E.Mitchell",
+            "preferred_name": "Earl",
+            "birth_date": "1987-09-25",
+            "weight": 310.0,
+            "height": 75,
+            "status": "played",
+            "id": "c9fe00a2-7620-49f3-a744-7d04c5b30560",
+            "position": "DT",
+            "age": 28,
+            "birth_place": "Houston, TX, USA",
+            "high_school": "North Shore",
+            "college": "Arizona",
+            "college_conf": "Pacific Ten Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 3,
+                "number": 81,
+                "team": {
+                    "name": "Texans",
+                    "market": "Houston",
+                    "alias": "HOU",
+                    "id": "82d2d380-3834-4938-835f-aec541e5ece7"
+                }
+            },
+            "references": [
+                {
+                    "id": "35520",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027684",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Xavien Howard",
+            "jersey": "25",
+            "last_name": "Howard",
+            "first_name": "Xavien",
+            "abbr_name": "X.Howard",
+            "preferred_name": "Xavien",
+            "birth_date": "1993-07-04",
+            "weight": 200.0,
+            "height": 74,
+            "status": "started",
+            "id": "e6bcb4f1-c2c8-4dd9-b826-af01182875f2",
+            "position": "CB",
+            "age": 23,
+            "birth_place": "Houston, TX, USA",
+            "high_school": "Wheatley",
+            "college": "Baylor",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 2,
+                "number": 38,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0033050",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43327",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Mike Hull",
+            "jersey": "45",
+            "last_name": "Hull",
+            "first_name": "Mike",
+            "abbr_name": "M.Hull",
+            "preferred_name": "Mike",
+            "birth_date": "1991-05-25",
+            "weight": 232.0,
+            "height": 72,
+            "status": "played",
+            "id": "a333a955-16bf-4157-bc86-a6919ce9edf8",
+            "position": "LB",
+            "age": 25,
+            "birth_place": "Canonsburg, PA, USA",
+            "high_school": "Canon-McMillan",
+            "college": "Penn State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2015,
+            "references": [
+                {
+                    "id": "00-0031719",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "42750",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Koa Misi",
+            "jersey": "55",
+            "last_name": "Misi",
+            "first_name": "Koa",
+            "abbr_name": "K.Misi",
+            "preferred_name": "Koa",
+            "birth_date": "1987-01-17",
+            "weight": 252.0,
+            "height": 75,
+            "status": "started",
+            "id": "0cac1d16-8e3b-4c96-b674-9700a36cf772",
+            "position": "LB",
+            "age": 29,
+            "birth_place": "Santa Rosa, CA, USA",
+            "high_school": "Montgomery (CA)",
+            "college": "Utah",
+            "college_conf": "Mountain West Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 2,
+                "number": 40,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "35479",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0027883",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Kiko Alonso",
+            "jersey": "47",
+            "last_name": "Alonso",
+            "first_name": "Kiko",
+            "abbr_name": "K.Alonso",
+            "preferred_name": "Kiko",
+            "birth_date": "1990-08-14",
+            "weight": 238.0,
+            "height": 75,
+            "status": "started",
+            "id": "1b0234dc-a434-4c31-bb41-6457c068a0fa",
+            "position": "LB",
+            "age": 26,
+            "birth_place": "Newton, MA, USA",
+            "high_school": "Los Gatos (CA)",
+            "college": "Oregon",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 2,
+                "number": 46,
+                "team": {
+                    "name": "Bills",
+                    "market": "Buffalo",
+                    "alias": "BUF",
+                    "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724"
+                }
+            },
+            "references": [
+                {
+                    "id": "39994",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030401",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Jordan Phillips",
+            "jersey": "97",
+            "last_name": "Phillips",
+            "first_name": "Jordan",
+            "abbr_name": "J.Phillips",
+            "preferred_name": "Jordan",
+            "birth_date": "1992-09-21",
+            "weight": 329.0,
+            "height": 77,
+            "status": "started",
+            "id": "023af11a-3aa1-4266-b163-31cf6369ef3b",
+            "position": "DT",
+            "age": 23,
+            "birth_place": "Towanda, KS, USA",
+            "high_school": "Circle",
+            "college": "Oklahoma",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 2,
+                "number": 52,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0031557",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "42395",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Jordan Lucas",
+            "jersey": "21",
+            "last_name": "Lucas",
+            "first_name": "Jordan",
+            "abbr_name": "J.Lucas",
+            "preferred_name": "Jordan",
+            "birth_date": "1993-08-02",
+            "weight": 199.0,
+            "height": 72,
+            "status": "played",
+            "id": "978eb5b8-9ae9-473e-a1ef-1ad2bd1b7ae5",
+            "position": "CB",
+            "age": 23,
+            "birth_place": "White Plains, NY, USA",
+            "high_school": "New Rochelle",
+            "college": "Penn State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2016,
+            "draft": {
+                "year": 2016,
+                "round": 6,
+                "number": 204,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0032797",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "43493",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Ndamukong Suh",
+            "jersey": "93",
+            "last_name": "Suh",
+            "first_name": "Ndamukong",
+            "abbr_name": "N.Suh",
+            "preferred_name": "Ndamukong",
+            "birth_date": "1987-01-06",
+            "weight": 305.0,
+            "height": 76,
+            "status": "started",
+            "id": "f0f60621-a075-41f6-a07d-74fd9e1348f2",
+            "position": "DT",
+            "age": 29,
+            "birth_place": "Portland, OR, USA",
+            "high_school": "Grant (OR)",
+            "college": "Nebraska",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2010,
+            "draft": {
+                "year": 2010,
+                "round": 1,
+                "number": 2,
+                "team": {
+                    "name": "Lions",
+                    "market": "Detroit",
+                    "alias": "DET",
+                    "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0027855",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "35441",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Anthony Steen",
+            "jersey": "65",
+            "last_name": "Steen",
+            "first_name": "Anthony",
+            "abbr_name": "A.Steen",
+            "preferred_name": "Anthony",
+            "birth_date": "1990-05-09",
+            "weight": 310.0,
+            "height": 75,
+            "status": "started",
+            "id": "1fdf4878-d5dc-4767-9c3b-65ac9f5ce57a",
+            "position": "C/G",
+            "age": 26,
+            "birth_place": "Clarksdale, MS, USA",
+            "high_school": "Lee Academy (MS)",
+            "college": "Alabama",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "41727",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0030887",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Mario Williams",
+            "jersey": "94",
+            "last_name": "Williams",
+            "first_name": "Mario",
+            "abbr_name": "M.Williams",
+            "preferred_name": "Mario",
+            "birth_date": "1985-01-31",
+            "weight": 292.0,
+            "height": 78,
+            "status": "started",
+            "id": "3d1041d9-04d3-4942-8b91-467cb757de31",
+            "position": "DE",
+            "age": 31,
+            "birth_place": "Richlands, NC, USA",
+            "high_school": "Richlands (NC)",
+            "college": "North Carolina State",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2006,
+            "draft": {
+                "year": 2006,
+                "round": 1,
+                "number": 1,
+                "team": {
+                    "name": "Texans",
+                    "market": "Houston",
+                    "alias": "HOU",
+                    "id": "82d2d380-3834-4938-835f-aec541e5ece7"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0023750",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "30815",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Ja'Wuan James",
+            "jersey": "70",
+            "last_name": "James",
+            "first_name": "Ja'Wuan",
+            "abbr_name": "J.James",
+            "preferred_name": "Ja'Wuan",
+            "birth_date": "1992-06-03",
+            "weight": 318.0,
+            "height": 78,
+            "status": "started",
+            "id": "ec2895a1-4907-4a18-a526-f2db4b663c3e",
+            "position": "T",
+            "age": 24,
+            "birth_place": "Atlanta, GA, USA",
+            "high_school": "North Gwinnett (GA)",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2014,
+            "draft": {
+                "year": 2014,
+                "round": 1,
+                "number": 19,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "41245",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031417",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Spencer Paysinger",
+            "jersey": "42",
+            "last_name": "Paysinger",
+            "first_name": "Spencer",
+            "abbr_name": "S.Paysinger",
+            "preferred_name": "Spencer",
+            "birth_date": "1988-06-28",
+            "weight": 236.0,
+            "height": 74,
+            "status": "played",
+            "id": "284f5b6f-cb48-42b6-97be-d1957e4d0bdb",
+            "position": "LB",
+            "age": 28,
+            "birth_place": "Los Angeles, CA, USA",
+            "high_school": "Beverly Hills (CA)",
+            "college": "Oregon",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2011,
+            "references": [
+                {
+                    "id": "00-0028368",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "37635",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Ryan Tannehill",
+            "jersey": "17",
+            "last_name": "Tannehill",
+            "first_name": "Ryan",
+            "abbr_name": "R.Tannehill",
+            "preferred_name": "Ryan",
+            "birth_date": "1988-07-27",
+            "weight": 220.0,
+            "height": 76,
+            "status": "started",
+            "id": "5812204c-6dae-4450-8011-99e0f72864ac",
+            "position": "QB",
+            "age": 28,
+            "birth_place": "Lubbock, TX, USA",
+            "high_school": "Big Spring (TX)",
+            "college": "Texas A&M",
+            "college_conf": "Big Twelve Conference",
+            "rookie_year": 2012,
+            "draft": {
+                "year": 2012,
+                "round": 1,
+                "number": 8,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "38538",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0029701",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Byron Maxwell",
+            "jersey": "41",
+            "last_name": "Maxwell",
+            "first_name": "Byron",
+            "abbr_name": "B.Maxwell",
+            "preferred_name": "Byron",
+            "birth_date": "1988-02-23",
+            "weight": 207.0,
+            "height": 73,
+            "status": "started",
+            "id": "fc309bb0-d8f9-49a8-b2d3-5c6eea4dec24",
+            "position": "CB",
+            "age": 28,
+            "birth_place": "North Charleston, SC, USA",
+            "high_school": "Fort Dorchester (SC)",
+            "college": "Clemson",
+            "college_conf": "Atlantic Coast Conference",
+            "rookie_year": 2011,
+            "draft": {
+                "year": 2011,
+                "round": 6,
+                "number": 173,
+                "team": {
+                    "name": "Seahawks",
+                    "market": "Seattle",
+                    "alias": "SEA",
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                }
+            },
+            "references": [
+                {
+                    "id": "37248",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028111",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Julius Warmsley",
+            "jersey": "73",
+            "last_name": "Warmsley",
+            "first_name": "Julius",
+            "abbr_name": "J.Warmsley",
+            "preferred_name": "Julius",
+            "birth_date": "1990-05-16",
+            "weight": 276.0,
+            "height": 74,
+            "status": "played",
+            "id": "efe0a829-1c7a-4460-b099-089bdb64b819",
+            "position": "DE",
+            "age": 26,
+            "birth_place": "Baton Rouge, LA, USA",
+            "high_school": "Saint Michael (LA)",
+            "college": "Tulane",
+            "college_conf": "American Athletic Conference",
+            "rookie_year": 2014,
+            "references": [
+                {
+                    "id": "00-0031225",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "42013",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Isa Abdul-Quddus",
+            "jersey": "24",
+            "last_name": "Abdul-Quddus",
+            "first_name": "Isa",
+            "abbr_name": "I.Abdul-Quddus",
+            "preferred_name": "Isa",
+            "birth_date": "1988-12-14",
+            "weight": 203.0,
+            "height": 73,
+            "status": "started",
+            "id": "1cf89a44-0b07-4eaf-87b6-face89587820",
+            "position": "S",
+            "age": 27,
+            "birth_place": "Newark, NJ, USA",
+            "high_school": "Union (NJ)",
+            "college": "Fordham",
+            "college_conf": "Patriot League",
+            "rookie_year": 2011,
+            "references": [
+                {
+                    "id": "38044",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028564",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "MarQueis Gray",
+            "jersey": "48",
+            "last_name": "Gray",
+            "first_name": "MarQueis",
+            "abbr_name": "M.Gray",
+            "preferred_name": "MarQueis",
+            "birth_date": "1989-11-07",
+            "weight": 242.0,
+            "height": 76,
+            "status": "played",
+            "id": "fda00e5c-b7df-487a-9a24-5e4087c575e1",
+            "position": "TE",
+            "age": 26,
+            "birth_place": "Indianapolis, IN, USA",
+            "high_school": "Ben Davis (IN)",
+            "college": "Minnesota",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2013,
+            "references": [
+                {
+                    "id": "00-0029878",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "40335",
+                    "origin": "nflx"
+                }
+            ]
+        },
+        {
+            "name": "Michael Thomas",
+            "jersey": "31",
+            "last_name": "Thomas",
+            "first_name": "Michael",
+            "abbr_name": "M.Thomas",
+            "preferred_name": "Michael",
+            "birth_date": "1990-03-17",
+            "weight": 201.0,
+            "height": 71,
+            "status": "started",
+            "id": "16e13f52-32b1-416f-83ae-1cbf2f92cffc",
+            "position": "S",
+            "age": 26,
+            "birth_place": "Houston, TX, USA",
+            "high_school": "Nimitz (TX)",
+            "college": "Stanford",
+            "college_conf": "Pacific Twelve Conference",
+            "rookie_year": 2012,
+            "references": [
+                {
+                    "id": "38852",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0028908",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Tony Lippett",
+            "jersey": "36",
+            "last_name": "Lippett",
+            "first_name": "Tony",
+            "abbr_name": "T.Lippett",
+            "preferred_name": "Tony",
+            "birth_date": "1992-07-02",
+            "weight": 192.0,
+            "height": 74,
+            "status": "played",
+            "id": "c0cfe76c-0633-4b6b-b282-02ca9911cabd",
+            "position": "CB",
+            "age": 24,
+            "birth_place": "Detroit, MI, USA",
+            "high_school": "Crockett",
+            "college": "Michigan State",
+            "college_conf": "Big Ten Conference",
+            "rookie_year": 2015,
+            "draft": {
+                "year": 2015,
+                "round": 5,
+                "number": 156,
+                "team": {
+                    "name": "Dolphins",
+                    "market": "Miami",
+                    "alias": "MIA",
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                }
+            },
+            "references": [
+                {
+                    "id": "42499",
+                    "origin": "nflx"
+                },
+                {
+                    "id": "00-0031594",
+                    "origin": "gsis"
+                }
+            ]
+        },
+        {
+            "name": "Justin Hunter",
+            "jersey": "15",
+            "last_name": "Hunter",
+            "first_name": "Justin",
+            "abbr_name": "J.Hunter",
+            "preferred_name": "Justin",
+            "birth_date": "1991-05-20",
+            "weight": 203.0,
+            "height": 76,
+            "status": "played",
+            "id": "f636d7ce-05f9-43d7-b63f-351acb5c2a70",
+            "position": "WR",
+            "age": 25,
+            "birth_place": "Virginia Beach, VA, USA",
+            "high_school": "Ocean Lakes (VA)",
+            "college": "Tennessee",
+            "college_conf": "Southeastern Conference",
+            "rookie_year": 2013,
+            "draft": {
+                "year": 2013,
+                "round": 2,
+                "number": 34,
+                "team": {
+                    "name": "Titans",
+                    "market": "Tennessee",
+                    "alias": "TEN",
+                    "id": "d26a1ca5-722d-4274-8f97-c92e49c96315"
+                }
+            },
+            "references": [
+                {
+                    "id": "00-0030521",
+                    "origin": "gsis"
+                },
+                {
+                    "id": "39982",
+                    "origin": "nflx"
+                }
+            ]
+        }
+    ]
+}, "officials": [
+    {
+        "full_name": "Buchanan, Jimmy",
+        "number": "86",
+        "assignment": "fieldjudge"
+    },
+    {
+        "full_name": "Ferguson, Keith",
+        "number": "61",
+        "assignment": "backjudge"
+    },
+    {
+        "full_name": "Michalek, Tony",
+        "number": "115",
+        "assignment": "umpire"
+    },
+    {
+        "full_name": "Hussey, John",
+        "number": "35",
+        "assignment": "referee"
+    },
+    {
+        "full_name": "Baynes, Allen",
+        "number": "56",
+        "assignment": "sidejudge"
+    },
+    {
+        "full_name": "Wimmer, Mike",
+        "assignment": "replayofficial"
+    },
+    {
+        "full_name": "Mackie, Wayne",
+        "number": "106",
+        "assignment": "headlinesman"
+    },
+    {
+        "full_name": "Marinucci, Ron",
+        "number": "107",
+        "assignment": "linejudge"
+    }
+], "_comment": "Generation started @ 2016-12-20 17:01:47 +0000 ended @ 2016-12-20 17:01:48 +0000"}

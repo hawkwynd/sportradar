@@ -1,0 +1,235 @@
+{"date": "2017-01-13", "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+}, "games": [
+    {
+        "id": "08ee89dc-b227-4115-8f62-fa942d7f6c6a",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T00:00:00+00:00",
+        "home_points": 2,
+        "away_points": 4,
+        "venue": {
+            "id": "bd8053e4-3bdf-4a70-914f-9f6d0051d66d",
+            "name": "Madison Square Garden",
+            "capacity": 18200,
+            "address": "Four Pennsylvania Plaza",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "MSG",
+            "satellite": "634"
+        },
+        "home": {
+            "name": "New York Rangers",
+            "alias": "NYR",
+            "id": "441781b9-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Toronto Maple Leafs",
+            "alias": "TOR",
+            "id": "441730a9-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "8580d2e8-0376-4a89-88a1-830b4073abb1",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T00:00:00+00:00",
+        "home_points": 6,
+        "away_points": 0,
+        "venue": {
+            "id": "48f092ed-ce49-4a08-97c6-def284ba6721",
+            "name": "Verizon Center",
+            "capacity": 18506,
+            "address": "601 F St. N.W.",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20004",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "CSN-DC",
+            "satellite": "642"
+        },
+        "home": {
+            "name": "Washington Capitals",
+            "alias": "WSH",
+            "id": "4417eede-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Chicago Blackhawks",
+            "alias": "CHI",
+            "id": "4416272f-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "66ed2bbc-646c-4b07-b7ad-96681b66b73f",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T00:30:00+00:00",
+        "home_points": 5,
+        "away_points": 2,
+        "venue": {
+            "id": "1ea58cb6-6a28-4619-b010-747ecbc30aa7",
+            "name": "PNC Arena",
+            "capacity": 18680,
+            "address": "1400 Edwards Mill Road",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27607",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "MSG-B",
+            "satellite": "635"
+        },
+        "home": {
+            "name": "Carolina Hurricanes",
+            "alias": "CAR",
+            "id": "44182a9d-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Buffalo Sabres",
+            "alias": "BUF",
+            "id": "4416d559-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "c71f1a28-5b34-44b6-a0eb-65e3df5b5891",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T00:30:00+00:00",
+        "home_points": 2,
+        "away_points": 5,
+        "venue": {
+            "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+            "name": "BB&T Center",
+            "capacity": 17040,
+            "address": "One Panther Parkway",
+            "city": "Sunrise",
+            "state": "FL",
+            "zip": "33323",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "MSG+",
+            "satellite": "635"
+        },
+        "home": {
+            "name": "Florida Panthers",
+            "alias": "FLA",
+            "id": "4418464d-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "New York Islanders",
+            "alias": "NYI",
+            "id": "441766b9-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "2d71b974-6b3f-43c3-99d5-93451e9278f8",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T01:00:00+00:00",
+        "home_points": 1,
+        "away_points": 3,
+        "venue": {
+            "id": "05aa49b2-f72d-4d42-ab30-f219d32ed97b",
+            "name": "Amalie Arena",
+            "capacity": 19204,
+            "address": "401 Channelside Drive",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33602",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "SUN",
+            "satellite": "653"
+        },
+        "home": {
+            "name": "Tampa Bay Lightning",
+            "alias": "TB",
+            "id": "4417d3cb-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Columbus Blue Jackets",
+            "alias": "CBJ",
+            "id": "44167db4-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "5f905afe-d80c-4199-8d67-50895ac511f6",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T02:00:00+00:00",
+        "home_points": 1,
+        "away_points": 2,
+        "venue": {
+            "id": "152d63d2-825f-4928-a08a-70564268b405",
+            "name": "Scotiabank Saddledome",
+            "capacity": 19289,
+            "address": "555 Saddledome Rise S.E.",
+            "city": "Calgary",
+            "state": "AB",
+            "zip": "T2G 2W1",
+            "country": "CAN",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "SNW"
+        },
+        "home": {
+            "name": "Calgary Flames",
+            "alias": "CGY",
+            "id": "44159241-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "New Jersey Devils",
+            "alias": "NJ",
+            "id": "44174b0c-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "c28d8987-3d80-4f22-9026-a2235df07778",
+        "status": "closed",
+        "coverage": "full",
+        "scheduled": "2017-01-14T02:00:00+00:00",
+        "home_points": 4,
+        "away_points": 3,
+        "venue": {
+            "id": "71ca386d-fbaa-479f-b9b6-7858ef2d3cc7",
+            "name": "Gila River Arena",
+            "capacity": 17125,
+            "address": "9400 W. Maryland Ave.",
+            "city": "Glendale",
+            "state": "AZ",
+            "zip": "85305",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "TSN3"
+        },
+        "home": {
+            "name": "Arizona Coyotes",
+            "alias": "ARI",
+            "id": "44153da1-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Winnipeg Jets",
+            "alias": "WPG",
+            "id": "44180e55-0f24-11e2-8525-18a905767e44"
+        }
+    }
+]}

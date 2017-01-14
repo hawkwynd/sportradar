@@ -1,0 +1,375 @@
+{"date": "2017-01-14", "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+}, "games": [
+    {
+        "id": "434d3b76-e104-441b-949c-ed4d443be4e4",
+        "status": "inprogress",
+        "coverage": "full",
+        "scheduled": "2017-01-14T18:00:00+00:00",
+        "venue": {
+            "id": "854ca968-b25f-44f9-abc5-52bcf8825f15",
+            "name": "TD Garden",
+            "capacity": 17565,
+            "address": "100 Legends Way",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02114",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "NESN",
+            "satellite": "628"
+        },
+        "home": {
+            "name": "Boston Bruins",
+            "alias": "BOS",
+            "id": "4416ba1a-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Philadelphia Flyers",
+            "alias": "PHI",
+            "id": "44179d47-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "ae3b0888-7a8a-4970-83de-ef200b7f8496",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-14T20:00:00+00:00",
+        "venue": {
+            "id": "a75eea49-c384-4edb-99f1-d5252773ec83",
+            "name": "Pepsi Center",
+            "capacity": 18007,
+            "address": "1000 Chopper Circle",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80204",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "ALT",
+            "satellite": "681"
+        },
+        "home": {
+            "name": "Colorado Avalanche",
+            "alias": "COL",
+            "id": "4415ce44-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Nashville Predators",
+            "alias": "NSH",
+            "id": "441643b7-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "04ee2d53-ac70-4a94-8e6a-394ed3153035",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T00:00:00+00:00",
+        "venue": {
+            "id": "1ea58cb6-6a28-4619-b010-747ecbc30aa7",
+            "name": "PNC Arena",
+            "capacity": 18680,
+            "address": "1400 Edwards Mill Road",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27607",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "MSG+",
+            "satellite": "635"
+        },
+        "home": {
+            "name": "Carolina Hurricanes",
+            "alias": "CAR",
+            "id": "44182a9d-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "New York Islanders",
+            "alias": "NYI",
+            "id": "441766b9-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "3ddd323d-2d77-4581-a31e-b6ab70f77905",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T00:00:00+00:00",
+        "venue": {
+            "id": "e1e675a3-9c13-48b3-9e22-4c063dd9905d",
+            "name": "Canadian Tire Centre",
+            "capacity": 19153,
+            "address": "1000 Palladium Drive",
+            "city": "Ottawa",
+            "state": "ON",
+            "zip": "K2V 1A5",
+            "country": "CAN",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "HNIC"
+        },
+        "home": {
+            "name": "Ottawa Senators",
+            "alias": "OTT",
+            "id": "4416f5e2-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Toronto Maple Leafs",
+            "alias": "TOR",
+            "id": "441730a9-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "690bea55-7873-47de-86bb-d70987366518",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T00:00:00+00:00",
+        "venue": {
+            "id": "ab7ddf4d-77aa-44cf-aaf9-9566218af38d",
+            "name": "Joe Louis Arena",
+            "capacity": 20066,
+            "address": "600 Civic Center Drive",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48226",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "ROOT Sports",
+            "satellite": "659"
+        },
+        "home": {
+            "name": "Detroit Red Wings",
+            "alias": "DET",
+            "id": "44169bb9-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Pittsburgh Penguins",
+            "alias": "PIT",
+            "id": "4417b7d7-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "edf6903b-a267-4893-acef-870a87d56530",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T00:00:00+00:00",
+        "venue": {
+            "id": "2ee8c0bf-dfd1-480c-80df-4d5f66a9dc76",
+            "name": "Bell Centre",
+            "capacity": 21273,
+            "address": "1909 Avenue des Canadiens-de-Montreal",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H3B 5E8",
+            "country": "CAN",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "HNIC"
+        },
+        "home": {
+            "name": "Montreal Canadiens",
+            "alias": "MTL",
+            "id": "441713b7-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "New York Rangers",
+            "alias": "NYR",
+            "id": "441781b9-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "f4fecda1-e1c2-4ff5-95ef-7a3c5c2d225a",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T00:00:00+00:00",
+        "venue": {
+            "id": "7cc8e88f-9196-4dbc-aa6a-d6f1a0550673",
+            "name": "BB&T Center",
+            "capacity": 17040,
+            "address": "One Panther Parkway",
+            "city": "Sunrise",
+            "state": "FL",
+            "zip": "33323",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "FS-OH",
+            "satellite": "660"
+        },
+        "home": {
+            "name": "Florida Panthers",
+            "alias": "FLA",
+            "id": "4418464d-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Columbus Blue Jackets",
+            "alias": "CBJ",
+            "id": "44167db4-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "16514564-3cd2-4ff6-808a-570c6a5bc65f",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T01:00:00+00:00",
+        "venue": {
+            "id": "adbd1acb-a053-4944-ba15-383eda91c12e",
+            "name": "American Airlines Center",
+            "capacity": 18532,
+            "address": "2500 Victory Ave.",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75219",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "FS-SW",
+            "satellite": "676"
+        },
+        "home": {
+            "name": "Dallas Stars",
+            "alias": "DAL",
+            "id": "44157522-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Minnesota Wild",
+            "alias": "MIN",
+            "id": "4416091c-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "a3c71fa1-7be3-4fb8-b12d-83eb8ac50649",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T01:00:00+00:00",
+        "venue": {
+            "id": "71ca386d-fbaa-479f-b9b6-7858ef2d3cc7",
+            "name": "Gila River Arena",
+            "capacity": 17125,
+            "address": "9400 W. Maryland Ave.",
+            "city": "Glendale",
+            "state": "AZ",
+            "zip": "85305",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "PRIME",
+            "satellite": "693"
+        },
+        "home": {
+            "name": "Arizona Coyotes",
+            "alias": "ARI",
+            "id": "44153da1-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Anaheim Ducks",
+            "alias": "ANA",
+            "id": "441862de-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "61533437-c8d9-486f-b39a-b9ec30adb5a0",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T03:00:00+00:00",
+        "venue": {
+            "id": "5d6670d2-01ea-4bc2-ae88-93563620328d",
+            "name": "Rogers Place",
+            "capacity": 18641,
+            "address": "10220 104 Avenue NW",
+            "city": "Edmonton",
+            "state": "AB",
+            "zip": "T5J 4Y8",
+            "country": "CAN",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "HNIC"
+        },
+        "home": {
+            "name": "Edmonton Oilers",
+            "alias": "EDM",
+            "id": "4415ea6c-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Calgary Flames",
+            "alias": "CGY",
+            "id": "44159241-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "c49ae729-f4fa-43ee-85eb-2a454d3d9603",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T03:00:00+00:00",
+        "venue": {
+            "id": "dec253d4-68df-470b-b8fc-d663a7fa4704",
+            "name": "Staples Center",
+            "capacity": 18118,
+            "address": "1111 S. Figueroa St.",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90015",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "FS-W",
+            "satellite": "692"
+        },
+        "home": {
+            "name": "Los Angeles Kings",
+            "alias": "LA",
+            "id": "44151f7a-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "Winnipeg Jets",
+            "alias": "WPG",
+            "id": "44180e55-0f24-11e2-8525-18a905767e44"
+        }
+    },
+    {
+        "id": "b690dd9a-e265-4a5e-b024-ea9610a3c0fe",
+        "status": "scheduled",
+        "coverage": "full",
+        "scheduled": "2017-01-15T03:30:00+00:00",
+        "venue": {
+            "id": "1da65282-af4c-4b81-a9de-344b76bb20b0",
+            "name": "SAP Center at San Jose",
+            "capacity": 17562,
+            "address": "525 W. Santa Clara St.",
+            "city": "San Jose",
+            "state": "CA",
+            "zip": "95113",
+            "country": "USA",
+            "time_zone": "US/Eastern"
+        },
+        "broadcast": {
+            "network": "CSN-CA",
+            "satellite": "698"
+        },
+        "home": {
+            "name": "San Jose Sharks",
+            "alias": "SJ",
+            "id": "44155909-0f24-11e2-8525-18a905767e44"
+        },
+        "away": {
+            "name": "St. Louis Blues",
+            "alias": "STL",
+            "id": "441660ea-0f24-11e2-8525-18a905767e44"
+        }
+    }
+]}

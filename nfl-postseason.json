@@ -1,0 +1,309 @@
+{"id": "6d78bea5-211d-4e9a-9f83-84fc090aae69", "year": 2016, "type": "PST", "name": "PST", "weeks": [
+    {
+        "id": "be5e7621-b9be-4ae8-a499-647022ce95de",
+        "sequence": 1,
+        "title": "1",
+        "games": [
+            {
+                "id": "0b3bc09e-1540-4632-92e5-5412ce012117",
+                "status": "closed",
+                "reference": "57159",
+                "number": 259,
+                "scheduled": "2017-01-08T18:05:00+00:00",
+                "attendance": 62726,
+                "utc_offset": -5,
+                "entry_mode": "INGEST",
+                "weather": "Partly Cloudy Temp: 17 F, Humidity: 54%, Wind: From W 16 mph",
+                "venue": {
+                    "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                    "name": "Heinz Field",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "USA",
+                    "zip": "15212",
+                    "address": "100 Art Rooney Avenue",
+                    "capacity": 65050,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "name": "Pittsburgh Steelers",
+                    "alias": "PIT",
+                    "game_number": 1,
+                    "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398"
+                },
+                "away": {
+                    "name": "Miami Dolphins",
+                    "alias": "MIA",
+                    "game_number": 1,
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+                },
+                "broadcast": {
+                    "network": "CBS"
+                }
+            },
+            {
+                "id": "2b261825-15d0-4e68-a4a1-cbf873f87686",
+                "status": "closed",
+                "reference": "57157",
+                "number": 257,
+                "scheduled": "2017-01-07T21:35:00+00:00",
+                "attendance": 71790,
+                "utc_offset": -6,
+                "entry_mode": "INGEST",
+                "weather": "Sunny Temp: 40 F, Humidity: 30%, Wind: NNW 12 mph",
+                "venue": {
+                    "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+                    "name": "NRG Stadium",
+                    "city": "Houston",
+                    "state": "TX",
+                    "country": "USA",
+                    "zip": "77054",
+                    "address": "One Reliant Park",
+                    "capacity": 71054,
+                    "surface": "artificial",
+                    "roof_type": "retractable_dome"
+                },
+                "home": {
+                    "name": "Houston Texans",
+                    "alias": "HOU",
+                    "game_number": 1,
+                    "id": "82d2d380-3834-4938-835f-aec541e5ece7"
+                },
+                "away": {
+                    "name": "Oakland Raiders",
+                    "alias": "OAK",
+                    "game_number": 1,
+                    "id": "1c1cec48-6352-4556-b789-35304c1a6ae1"
+                },
+                "broadcast": {
+                    "network": "ABC/ESPN",
+                    "internet": "WatchESPN"
+                }
+            },
+            {
+                "id": "9fd87447-39cd-4cf5-8b18-ba219024988c",
+                "status": "closed",
+                "reference": "57160",
+                "number": 260,
+                "scheduled": "2017-01-08T21:40:00+00:00",
+                "attendance": 77549,
+                "utc_offset": -6,
+                "entry_mode": "INGEST",
+                "weather": "Temp: 14 F, Humidity: 64%, Wind: S 7 mph",
+                "venue": {
+                    "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+                    "name": "Lambeau Field",
+                    "city": "Green Bay",
+                    "state": "WI",
+                    "country": "USA",
+                    "zip": "54304",
+                    "address": "1265 Lombardi Avenue",
+                    "capacity": 80750,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "name": "Green Bay Packers",
+                    "alias": "GB",
+                    "game_number": 1,
+                    "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
+                },
+                "away": {
+                    "name": "New York Giants",
+                    "alias": "NYG",
+                    "game_number": 1,
+                    "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d"
+                },
+                "broadcast": {
+                    "network": "FOX"
+                }
+            },
+            {
+                "id": "dbdcb80f-112e-490c-ad90-02a2f8656780",
+                "status": "closed",
+                "reference": "57158",
+                "number": 258,
+                "scheduled": "2017-01-08T01:15:00+00:00",
+                "attendance": 68788,
+                "utc_offset": -8,
+                "entry_mode": "INGEST",
+                "weather": "Cloudy Temp: 38 F, Humidity: 44%, Wind: ESE 7 mph",
+                "venue": {
+                    "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                    "name": "CenturyLink Field",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "USA",
+                    "zip": "98134",
+                    "address": "800 Occidental Avenue South",
+                    "capacity": 67000,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "name": "Seattle Seahawks",
+                    "alias": "SEA",
+                    "game_number": 1,
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                },
+                "away": {
+                    "name": "Detroit Lions",
+                    "alias": "DET",
+                    "game_number": 1,
+                    "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e"
+                },
+                "broadcast": {
+                    "network": "NBC"
+                }
+            }
+        ]
+    },
+    {
+        "id": "5bb2ca23-a715-4419-bddd-93df958b72c0",
+        "sequence": 2,
+        "title": "2",
+        "games": [
+            {
+                "id": "0b68e474-b214-44c8-b004-a1b872ce837b",
+                "status": "scheduled",
+                "reference": "57163",
+                "number": 263,
+                "scheduled": "2017-01-16T01:20:00+00:00",
+                "entry_mode": "INGEST",
+                "venue": {
+                    "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                    "name": "Arrowhead Stadium",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "country": "USA",
+                    "zip": "64129",
+                    "address": "One Arrowhead Drive",
+                    "capacity": 79451,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "name": "Kansas City Chiefs",
+                    "alias": "KC",
+                    "game_number": 1,
+                    "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2"
+                },
+                "away": {
+                    "name": "Pittsburgh Steelers",
+                    "alias": "PIT",
+                    "game_number": 2,
+                    "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398"
+                },
+                "broadcast": {
+                    "network": "NBC"
+                }
+            },
+            {
+                "id": "99ca0767-6348-4e6f-8685-98ed54702d52",
+                "status": "scheduled",
+                "reference": "57161",
+                "number": 261,
+                "scheduled": "2017-01-14T21:35:00+00:00",
+                "entry_mode": "INGEST",
+                "venue": {
+                    "id": "216de6bf-bce0-409a-a9e7-90db8df1f7b9",
+                    "name": "Georgia Dome",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "USA",
+                    "zip": "30313",
+                    "address": "One Georgia Dome Drive Northwest",
+                    "capacity": 74228,
+                    "surface": "artificial",
+                    "roof_type": "dome"
+                },
+                "home": {
+                    "name": "Atlanta Falcons",
+                    "alias": "ATL",
+                    "game_number": 1,
+                    "id": "e6aa13a4-0055-48a9-bc41-be28dc106929"
+                },
+                "away": {
+                    "name": "Seattle Seahawks",
+                    "alias": "SEA",
+                    "game_number": 2,
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+                },
+                "broadcast": {
+                    "network": "FOX"
+                }
+            },
+            {
+                "id": "ac66ae7b-e288-4134-814f-4079018ab06f",
+                "status": "scheduled",
+                "reference": "57162",
+                "number": 262,
+                "scheduled": "2017-01-15T01:15:00+00:00",
+                "entry_mode": "INGEST",
+                "venue": {
+                    "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                    "name": "Gillette Stadium",
+                    "city": "Foxborough",
+                    "state": "MA",
+                    "country": "USA",
+                    "zip": "02035",
+                    "address": "One Patriot Place",
+                    "capacity": 68756,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "name": "New England Patriots",
+                    "alias": "NE",
+                    "game_number": 1,
+                    "id": "97354895-8c77-4fd4-a860-32e62ea7382a"
+                },
+                "away": {
+                    "name": "Houston Texans",
+                    "alias": "HOU",
+                    "game_number": 2,
+                    "id": "82d2d380-3834-4938-835f-aec541e5ece7"
+                },
+                "broadcast": {
+                    "network": "CBS"
+                }
+            },
+            {
+                "id": "c3edf400-48cb-46df-b9f9-db03259ca4b5",
+                "status": "scheduled",
+                "reference": "57164",
+                "number": 264,
+                "scheduled": "2017-01-15T21:40:00+00:00",
+                "entry_mode": "INGEST",
+                "venue": {
+                    "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+                    "name": "AT&T Stadium",
+                    "city": "Arlington",
+                    "state": "TX",
+                    "country": "USA",
+                    "zip": "76011",
+                    "address": "One Legends Way",
+                    "capacity": 80000,
+                    "surface": "artificial",
+                    "roof_type": "retractable_dome"
+                },
+                "home": {
+                    "name": "Dallas Cowboys",
+                    "alias": "DAL",
+                    "game_number": 1,
+                    "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060"
+                },
+                "away": {
+                    "name": "Green Bay Packers",
+                    "alias": "GB",
+                    "game_number": 2,
+                    "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
+                },
+                "broadcast": {
+                    "network": "FOX"
+                }
+            }
+        ]
+    }
+], "_comment": "Generation started @ 2017-01-14 17:04:39 +0000 ended @ 2017-01-14 17:04:39 +0000"}
